@@ -1,16 +1,28 @@
 # Global-Airbnb-Performance-Dashboard
 This project analyzes global Airbnb rental data to uncover key insights related to revenue, occupancy, and pricing trends. The goal is to transform raw data into an interactive Power BI dashboard that helps understand business performance across different locations and property types.
+
+---
+
 ## Dataset
 DOWNLOAD DATASET FROM HERE - https://mavenanalytics.io/data-playground/airbnb-listings-reviews
+
+---
+
 ## Objectives
 Analyze Airbnb listing performance
 Track key metrics like revenue, occupancy rate, and pricing
 Identify trends across cities and property types
 Build an interactive dashboard for better decision-making
+
+---
+
 ## Tools & Technologies
 Power BI
 Power Query (Data Cleaning & Transformation)
 DAX (Data Analysis Expressions)
+
+---
+
 ## Project Workflow
 1. Data Cleaning (Power Query)
 Removed null and inconsistent values
@@ -32,7 +44,17 @@ Location
 Property Type
 Price Range
 Used bookmarks and buttons for better UX
+
+---
+
 ## How to Use
 Download the .pbix file
 Open in Power BI Desktop
 Explore filters and interactive visuals
+
+---
+
+## DashBoard Image 
+check Airbnb.pdf
+
+---
